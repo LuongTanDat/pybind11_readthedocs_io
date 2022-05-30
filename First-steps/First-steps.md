@@ -20,5 +20,5 @@ warp.sub(1, 2)
 warp.mul(1, 2)
 warp.div(1, 2)
 warp.fourty_two
-warp.hw
+warp.get_started
 ```
